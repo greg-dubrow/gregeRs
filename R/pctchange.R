@@ -1,4 +1,4 @@
 # function for year-over-year percent changes
 pctchange <- function(x) {
-  (x - lag(x)) / lag(x)
+  (x - stats::lag(x)) / stats::lag(x)
 }
