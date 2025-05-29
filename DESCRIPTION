@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Gregers", "Kjerulf Dubrow", , "dubrowg@gmail.com", role = c("aut", "cre"))
 Description: Custom functions that I often use in my analytical projects.
-License: `use_mit_license("Gregers Kjerulf Dubrow")`, `use_gpl3_license()` or friends to pick a
-    license
+License: use_mit_license("Gregers Kjerulf Dubrow")
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
