@@ -1,6 +1,6 @@
 #' Finds observations not in a vector, using the negate function for %in%
 #'
-#' @param what Creates a %notin% operator select observations not in a defined vector
+#' @param c("", "") Items in defined vector that the function will filter out
 #' @usage %notin% c(" ", " "))
 #' @return A new column or filtered data-frame based on the %notin% selection
 #' @export
