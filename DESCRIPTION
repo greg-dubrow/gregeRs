@@ -1,5 +1,5 @@
 Package: gregeRs
-Title: What the Package Does (One Line, Title Case)
+Title: Custom functions I use in data projects
 Version: 0.0.0.9000
 Authors@R: 
     person("Gregers", "Kjerulf Dubrow", , "dubrowg@gmail.com", role = c("aut", "cre"))
