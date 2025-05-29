@@ -1,4 +1,4 @@
-#' Calculates year-over-year percent changes
+#' Calculates s percent changes
 #'
 #' @param x uses lag function to calculate change from 1 row prior. Assumes long data.
 #' @usage pctchange(x)
