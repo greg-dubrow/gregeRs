@@ -6,7 +6,7 @@
 #' @export
 #'
 #' @examples
-#' filter(state %notin% c("PA", "MD))
+#' filter(state %notin% c("PA", "MD"))
 
 
 `%notin%` <- purrr::negate(`%in%`)
